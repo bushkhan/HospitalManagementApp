@@ -6,7 +6,6 @@ import 'package:transition/transition.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'new_nurse.dart';
 
 class DoctorForm1 extends StatefulWidget {
   @override
