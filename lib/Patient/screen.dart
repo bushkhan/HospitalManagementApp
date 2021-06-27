@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:hospital_management_app/Patient/register_page.dart';
 import 'login_page.dart';
-import 'file:///C:/Users/Bushra%20Khan/AndroidStudioProjects/hospital_management_app/lib/Patient/register_page.dart';
 
 class Screen extends StatelessWidget {
   @override

@@ -2,7 +2,6 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:hospital_management_app/Doctor/doctor_past.dart';
 import 'package:hospital_management_app/Doctor/doctor_upcoming.dart';
-import 'file:///C:/Users/Bushra%20Khan/AndroidStudioProjects/hospital_management_app/lib/Patient/past.dart';
 import 'package:hospital_management_app/Patient/upcoming.dart';
 import 'package:hospital_management_app/Patient/upcoming.dart';
 import 'package:hospital_management_app/Doctor/upcoming.dart';
